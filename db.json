@@ -1,1 +1,18 @@
-
+{
+  "pacsId": 1,
+  "pacsReferenceNumber": "1",
+  "serviceType": "1",
+  "memberAccountNumber": "1",
+  "beneficiaryAccountNumber": "1",
+  "ifscCode": "1",
+  "transactionAmount": 1,
+  "commisionAmount": 1,
+  "dateOfTransaction": "2025-03-06",
+  "uniqueIdOfTransaction": "1",
+  "transactionNumber": "1",
+  "utrNumber": "1",
+  "status": 1,
+  "cbsAccountNumber": "1",
+  "dileep2662Id": "jpa",
+  "id": 101
+}
